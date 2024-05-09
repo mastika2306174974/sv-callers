@@ -1,0 +1,92 @@
+{
+  "build": "h0c5db8f_4",
+  "build_number": 4,
+  "channel": "https://conda.anaconda.org/conda-forge/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=12",
+    "tk >=8.6.12,<8.7.0a0"
+  ],
+  "extracted_package_dir": "/home/gitpod/miniconda3/pkgs/tktable-2.10-h0c5db8f_4",
+  "files": [
+    "lib/Tktable2.10/README.txt",
+    "lib/Tktable2.10/html/tkTable.html",
+    "lib/Tktable2.10/libTktable2.10.so",
+    "lib/Tktable2.10/license.txt",
+    "lib/Tktable2.10/pkgIndex.tcl",
+    "lib/Tktable2.10/tkTable.tcl",
+    "lib/Tktable2.10/tktable.py"
+  ],
+  "fn": "tktable-2.10-h0c5db8f_4.conda",
+  "license": "TCL",
+  "link": {
+    "source": "/home/gitpod/miniconda3/pkgs/tktable-2.10-h0c5db8f_4",
+    "type": 1
+  },
+  "md5": "3cd7ab09ba0231fa94fb2e61c9e73a8b",
+  "name": "tktable",
+  "package_tarball_full_path": "/home/gitpod/miniconda3/pkgs/tktable-2.10-h0c5db8f_4.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/Tktable2.10/README.txt",
+        "path_type": "hardlink",
+        "sha256": "62d23455b356b97a12b5df0491f048059c2c8a93f8a3d669106368679ca59a60",
+        "sha256_in_prefix": "62d23455b356b97a12b5df0491f048059c2c8a93f8a3d669106368679ca59a60",
+        "size_in_bytes": 5048
+      },
+      {
+        "_path": "lib/Tktable2.10/html/tkTable.html",
+        "path_type": "hardlink",
+        "sha256": "c9cb35d4e48f58ffd53c4b6b26905919bfb73dc8a58868ae2293cf3c34c45c49",
+        "sha256_in_prefix": "c9cb35d4e48f58ffd53c4b6b26905919bfb73dc8a58868ae2293cf3c34c45c49",
+        "size_in_bytes": 66891
+      },
+      {
+        "_path": "lib/Tktable2.10/libTktable2.10.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/tktable_1695277976042/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
+        "sha256": "d205a8e672a70f43675d5a67974b55d073416515ab65b7d1604bd1e8120c9039",
+        "sha256_in_prefix": "d205a8e672a70f43675d5a67974b55d073416515ab65b7d1604bd1e8120c9039",
+        "size_in_bytes": 168984
+      },
+      {
+        "_path": "lib/Tktable2.10/license.txt",
+        "path_type": "hardlink",
+        "sha256": "450010d597a82621202d5c49691df11d343c5c5d3cf651026c2a94ddcf507b13",
+        "sha256_in_prefix": "450010d597a82621202d5c49691df11d343c5c5d3cf651026c2a94ddcf507b13",
+        "size_in_bytes": 2037
+      },
+      {
+        "_path": "lib/Tktable2.10/pkgIndex.tcl",
+        "path_type": "hardlink",
+        "sha256": "1c125b787095fce09cb7c3d1d6f1d7ba0aa17a5a80a45d5ccc0f7292e600d89e",
+        "sha256_in_prefix": "1c125b787095fce09cb7c3d1d6f1d7ba0aa17a5a80a45d5ccc0f7292e600d89e",
+        "size_in_bytes": 137
+      },
+      {
+        "_path": "lib/Tktable2.10/tkTable.tcl",
+        "path_type": "hardlink",
+        "sha256": "26b499467819147b70f12be9ce5ebc015a1f7c2bb3cea1b4cecdd9c5ef145283",
+        "sha256_in_prefix": "26b499467819147b70f12be9ce5ebc015a1f7c2bb3cea1b4cecdd9c5ef145283",
+        "size_in_bytes": 24094
+      },
+      {
+        "_path": "lib/Tktable2.10/tktable.py",
+        "path_type": "hardlink",
+        "sha256": "e3bcd602262f21da4948475bc0eabc68cf1e931c48cb3e43ee5a02667db82ab2",
+        "sha256_in_prefix": "e3bcd602262f21da4948475bc0eabc68cf1e931c48cb3e43ee5a02667db82ab2",
+        "size_in_bytes": 24086
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "9e510d86e0fbe252a74c59216df8e6abbea8b9e20be5d9b98bf13656981f728e",
+  "size": 89067,
+  "subdir": "linux-64",
+  "timestamp": 1695278170000,
+  "url": "https://conda.anaconda.org/conda-forge/linux-64/tktable-2.10-h0c5db8f_4.conda",
+  "version": "2.10"
+}

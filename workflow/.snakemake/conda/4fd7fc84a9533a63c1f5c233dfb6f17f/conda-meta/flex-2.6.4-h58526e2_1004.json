@@ -1,0 +1,346 @@
+{
+  "build": "h58526e2_1004",
+  "build_number": 1004,
+  "channel": "https://conda.anaconda.org/conda-forge/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.5.0",
+    "libstdcxx-ng >=7.5.0",
+    "m4"
+  ],
+  "extracted_package_dir": "/home/gitpod/miniconda3/pkgs/flex-2.6.4-h58526e2_1004",
+  "files": [
+    "bin/flex",
+    "bin/flex++",
+    "include/FlexLexer.h",
+    "lib/libfl.a",
+    "lib/libfl.so",
+    "lib/libfl.so.2",
+    "lib/libfl.so.2.0.0",
+    "share/doc/flex/AUTHORS",
+    "share/doc/flex/COPYING",
+    "share/doc/flex/NEWS",
+    "share/doc/flex/ONEWS",
+    "share/doc/flex/README.md",
+    "share/info/flex.info",
+    "share/info/flex.info-1",
+    "share/info/flex.info-2",
+    "share/locale/ca/LC_MESSAGES/flex.mo",
+    "share/locale/da/LC_MESSAGES/flex.mo",
+    "share/locale/de/LC_MESSAGES/flex.mo",
+    "share/locale/en@boldquot/LC_MESSAGES/flex.mo",
+    "share/locale/en@quot/LC_MESSAGES/flex.mo",
+    "share/locale/eo/LC_MESSAGES/flex.mo",
+    "share/locale/es/LC_MESSAGES/flex.mo",
+    "share/locale/fi/LC_MESSAGES/flex.mo",
+    "share/locale/fr/LC_MESSAGES/flex.mo",
+    "share/locale/ga/LC_MESSAGES/flex.mo",
+    "share/locale/hr/LC_MESSAGES/flex.mo",
+    "share/locale/ko/LC_MESSAGES/flex.mo",
+    "share/locale/nl/LC_MESSAGES/flex.mo",
+    "share/locale/pl/LC_MESSAGES/flex.mo",
+    "share/locale/pt_BR/LC_MESSAGES/flex.mo",
+    "share/locale/ro/LC_MESSAGES/flex.mo",
+    "share/locale/ru/LC_MESSAGES/flex.mo",
+    "share/locale/sr/LC_MESSAGES/flex.mo",
+    "share/locale/sv/LC_MESSAGES/flex.mo",
+    "share/locale/tr/LC_MESSAGES/flex.mo",
+    "share/locale/vi/LC_MESSAGES/flex.mo",
+    "share/locale/zh_CN/LC_MESSAGES/flex.mo",
+    "share/locale/zh_TW/LC_MESSAGES/flex.mo",
+    "share/man/man1/flex.1"
+  ],
+  "fn": "flex-2.6.4-h58526e2_1004.tar.bz2",
+  "license": "BSD 2-Clause",
+  "link": {
+    "source": "/home/gitpod/miniconda3/pkgs/flex-2.6.4-h58526e2_1004",
+    "type": 1
+  },
+  "md5": "b1029ec81c7e0969e84a8179d039a9ce",
+  "name": "flex",
+  "package_tarball_full_path": "/home/gitpod/miniconda3/pkgs/flex-2.6.4-h58526e2_1004.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/flex",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/flex_1605270635953/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "fbdcea57dc0bfc6e320463f2a5436e61f104b055f44c2a2dab642bc9a3e68432",
+        "sha256_in_prefix": "ddac86fe5d9a5e8c76b0d2d4f59c53cf6990570b510fa427f524858948e6ce27",
+        "size_in_bytes": 461432
+      },
+      {
+        "_path": "bin/flex++",
+        "path_type": "softlink",
+        "sha256": "fbdcea57dc0bfc6e320463f2a5436e61f104b055f44c2a2dab642bc9a3e68432",
+        "size_in_bytes": 461432
+      },
+      {
+        "_path": "include/FlexLexer.h",
+        "path_type": "hardlink",
+        "sha256": "ee9859d6b3027ed565f98f42744e438ab31b2cd2e9f797ddf870029ca2021686",
+        "sha256_in_prefix": "ee9859d6b3027ed565f98f42744e438ab31b2cd2e9f797ddf870029ca2021686",
+        "size_in_bytes": 6893
+      },
+      {
+        "_path": "lib/libfl.a",
+        "path_type": "hardlink",
+        "sha256": "b8499653fc64edff948c272320672897d4af5e50e184b8930850300db0aa05c8",
+        "sha256_in_prefix": "b8499653fc64edff948c272320672897d4af5e50e184b8930850300db0aa05c8",
+        "size_in_bytes": 3124
+      },
+      {
+        "_path": "lib/libfl.so",
+        "path_type": "softlink",
+        "sha256": "e6d9e88faa0bcbc650ea0a3a50efaca42e8af2733000f6fb4fe0d84897cad8e7",
+        "size_in_bytes": 16104
+      },
+      {
+        "_path": "lib/libfl.so.2",
+        "path_type": "softlink",
+        "sha256": "e6d9e88faa0bcbc650ea0a3a50efaca42e8af2733000f6fb4fe0d84897cad8e7",
+        "size_in_bytes": 16104
+      },
+      {
+        "_path": "lib/libfl.so.2.0.0",
+        "path_type": "hardlink",
+        "sha256": "e6d9e88faa0bcbc650ea0a3a50efaca42e8af2733000f6fb4fe0d84897cad8e7",
+        "sha256_in_prefix": "e6d9e88faa0bcbc650ea0a3a50efaca42e8af2733000f6fb4fe0d84897cad8e7",
+        "size_in_bytes": 16104
+      },
+      {
+        "_path": "share/doc/flex/AUTHORS",
+        "path_type": "hardlink",
+        "sha256": "06ef76f80c20dee05013c90d51437c393e8f3c57b008a0c0c87c98faea2f548b",
+        "sha256_in_prefix": "06ef76f80c20dee05013c90d51437c393e8f3c57b008a0c0c87c98faea2f548b",
+        "size_in_bytes": 624
+      },
+      {
+        "_path": "share/doc/flex/COPYING",
+        "path_type": "hardlink",
+        "sha256": "97fd685958d93be7f8dab939bb8161dbd6afb0718c63bfc337c24321aea44273",
+        "sha256_in_prefix": "97fd685958d93be7f8dab939bb8161dbd6afb0718c63bfc337c24321aea44273",
+        "size_in_bytes": 1855
+      },
+      {
+        "_path": "share/doc/flex/NEWS",
+        "path_type": "hardlink",
+        "sha256": "4fabf5ca67345053342b6413466138a794a49527b33793b9231a953466e66b56",
+        "sha256_in_prefix": "4fabf5ca67345053342b6413466138a794a49527b33793b9231a953466e66b56",
+        "size_in_bytes": 23840
+      },
+      {
+        "_path": "share/doc/flex/ONEWS",
+        "path_type": "hardlink",
+        "sha256": "408309c4ee604fde8b9ac588857fc7f908f77c015992f63b8b56e8ecad92debe",
+        "sha256_in_prefix": "408309c4ee604fde8b9ac588857fc7f908f77c015992f63b8b56e8ecad92debe",
+        "size_in_bytes": 46318
+      },
+      {
+        "_path": "share/doc/flex/README.md",
+        "path_type": "hardlink",
+        "sha256": "9269b1fe4e79b8504bf9be7d9319ff794f50c6677ee8477a770212ce93134379",
+        "sha256_in_prefix": "9269b1fe4e79b8504bf9be7d9319ff794f50c6677ee8477a770212ce93134379",
+        "size_in_bytes": 4104
+      },
+      {
+        "_path": "share/info/flex.info",
+        "path_type": "hardlink",
+        "sha256": "33f38dd17d4ffe039302005f19c1dbee64a98b3930a655bb3b7035f0f9297fb4",
+        "sha256_in_prefix": "33f38dd17d4ffe039302005f19c1dbee64a98b3930a655bb3b7035f0f9297fb4",
+        "size_in_bytes": 10414
+      },
+      {
+        "_path": "share/info/flex.info-1",
+        "path_type": "hardlink",
+        "sha256": "5e025695fc20dd1563cb926496c9ac2c0a2457b111a062ab6ee444bbb0d7790b",
+        "sha256_in_prefix": "5e025695fc20dd1563cb926496c9ac2c0a2457b111a062ab6ee444bbb0d7790b",
+        "size_in_bytes": 317123
+      },
+      {
+        "_path": "share/info/flex.info-2",
+        "path_type": "hardlink",
+        "sha256": "9b6034d2ba9fec36d055b6879e34b102779a5b2078f21f9cc9d99773f40f559a",
+        "sha256_in_prefix": "9b6034d2ba9fec36d055b6879e34b102779a5b2078f21f9cc9d99773f40f559a",
+        "size_in_bytes": 26966
+      },
+      {
+        "_path": "share/locale/ca/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "c0b415167bb71dbd63307d7106b3267e965a33e654203ef516301308a77fd6ee",
+        "sha256_in_prefix": "c0b415167bb71dbd63307d7106b3267e965a33e654203ef516301308a77fd6ee",
+        "size_in_bytes": 16553
+      },
+      {
+        "_path": "share/locale/da/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "1fc11be6145ba2963c5be59980adea65a5419f99866ba6eace0fb5e5f0f80ea4",
+        "sha256_in_prefix": "1fc11be6145ba2963c5be59980adea65a5419f99866ba6eace0fb5e5f0f80ea4",
+        "size_in_bytes": 15398
+      },
+      {
+        "_path": "share/locale/de/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "d68bb31cbaf5633051dc97f5b1594335d95e65cb401d9906eb2e214a187f78c1",
+        "sha256_in_prefix": "d68bb31cbaf5633051dc97f5b1594335d95e65cb401d9906eb2e214a187f78c1",
+        "size_in_bytes": 16353
+      },
+      {
+        "_path": "share/locale/en@boldquot/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "77014de425dcba94bb1169785d35a0312bdc2b59fc64873eaf57386fd0018aa2",
+        "sha256_in_prefix": "77014de425dcba94bb1169785d35a0312bdc2b59fc64873eaf57386fd0018aa2",
+        "size_in_bytes": 21029
+      },
+      {
+        "_path": "share/locale/en@quot/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "7361ca30bc9c117c552ba77b23dd075dc0b8b17eb5d7cf5629d3e8a20ab729da",
+        "sha256_in_prefix": "7361ca30bc9c117c552ba77b23dd075dc0b8b17eb5d7cf5629d3e8a20ab729da",
+        "size_in_bytes": 20913
+      },
+      {
+        "_path": "share/locale/eo/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "53a00922e9b929e0a30143375d31f9d1cbe13dc2b7dcc3002fa484e112f3367c",
+        "sha256_in_prefix": "53a00922e9b929e0a30143375d31f9d1cbe13dc2b7dcc3002fa484e112f3367c",
+        "size_in_bytes": 15388
+      },
+      {
+        "_path": "share/locale/es/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "f6bf39c158595d989914e2c15a4d5cdf6eca6fead80e3b43b83d85faef47f8ed",
+        "sha256_in_prefix": "f6bf39c158595d989914e2c15a4d5cdf6eca6fead80e3b43b83d85faef47f8ed",
+        "size_in_bytes": 12775
+      },
+      {
+        "_path": "share/locale/fi/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "3545c0d9975ba4653b7db9d4da4a45c4129e56c85d79cef5ddb61adeb873e791",
+        "sha256_in_prefix": "3545c0d9975ba4653b7db9d4da4a45c4129e56c85d79cef5ddb61adeb873e791",
+        "size_in_bytes": 16333
+      },
+      {
+        "_path": "share/locale/fr/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "d9d208d400aeba8655bcf0d46a3a0a72e1813290a25de3fbd0014281412bd1bb",
+        "sha256_in_prefix": "d9d208d400aeba8655bcf0d46a3a0a72e1813290a25de3fbd0014281412bd1bb",
+        "size_in_bytes": 16608
+      },
+      {
+        "_path": "share/locale/ga/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "59af71f14410020f909ed941c93bb81aedcfb36c4c0db67d640cc4261d3927ce",
+        "sha256_in_prefix": "59af71f14410020f909ed941c93bb81aedcfb36c4c0db67d640cc4261d3927ce",
+        "size_in_bytes": 16249
+      },
+      {
+        "_path": "share/locale/hr/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "167519d455254efce3faeb9b68a8193448be56ffc7145c38e08b0a050de94e22",
+        "sha256_in_prefix": "167519d455254efce3faeb9b68a8193448be56ffc7145c38e08b0a050de94e22",
+        "size_in_bytes": 3516
+      },
+      {
+        "_path": "share/locale/ko/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "2bd02535b1040a058f2c163e8c66cdd665b92917bac95e3af8965881496333d4",
+        "sha256_in_prefix": "2bd02535b1040a058f2c163e8c66cdd665b92917bac95e3af8965881496333d4",
+        "size_in_bytes": 10308
+      },
+      {
+        "_path": "share/locale/nl/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "59eb029dca4753cd773cf714d5826a8789694142e0e5fe40f67365b0bb0dcf80",
+        "sha256_in_prefix": "59eb029dca4753cd773cf714d5826a8789694142e0e5fe40f67365b0bb0dcf80",
+        "size_in_bytes": 15915
+      },
+      {
+        "_path": "share/locale/pl/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "3ba12a4b4a3b59d4c9db64c8f2464370ad12a99e42582e392566a0eb870157ac",
+        "sha256_in_prefix": "3ba12a4b4a3b59d4c9db64c8f2464370ad12a99e42582e392566a0eb870157ac",
+        "size_in_bytes": 15642
+      },
+      {
+        "_path": "share/locale/pt_BR/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "3314a41139b13c744cecad6b484b1436c2de01bd61599b55908e62ce1864de92",
+        "sha256_in_prefix": "3314a41139b13c744cecad6b484b1436c2de01bd61599b55908e62ce1864de92",
+        "size_in_bytes": 16235
+      },
+      {
+        "_path": "share/locale/ro/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "304404bde964b958aa4281b5d3dc2eb95a58e770d3522530e3a7f93df3f619a9",
+        "sha256_in_prefix": "304404bde964b958aa4281b5d3dc2eb95a58e770d3522530e3a7f93df3f619a9",
+        "size_in_bytes": 14641
+      },
+      {
+        "_path": "share/locale/ru/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "fab4a083b0b7b6f223f0d75b1cf29aa593c3e330e888403e3c83d048c79de060",
+        "sha256_in_prefix": "fab4a083b0b7b6f223f0d75b1cf29aa593c3e330e888403e3c83d048c79de060",
+        "size_in_bytes": 20884
+      },
+      {
+        "_path": "share/locale/sr/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "67820d97593ab7746f4bb8e70c6ca8dc46fca908208c77515803df3b068d1ce9",
+        "sha256_in_prefix": "67820d97593ab7746f4bb8e70c6ca8dc46fca908208c77515803df3b068d1ce9",
+        "size_in_bytes": 19958
+      },
+      {
+        "_path": "share/locale/sv/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "06e39a3e6ae27e86a4c62a36cfa8133fc70f67c82d164d036eff033fc7b75fd8",
+        "sha256_in_prefix": "06e39a3e6ae27e86a4c62a36cfa8133fc70f67c82d164d036eff033fc7b75fd8",
+        "size_in_bytes": 15651
+      },
+      {
+        "_path": "share/locale/tr/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "97a76e381d68cfdebce49037ae8f6a36310d950a2233d4464b7f555b2df33d8b",
+        "sha256_in_prefix": "97a76e381d68cfdebce49037ae8f6a36310d950a2233d4464b7f555b2df33d8b",
+        "size_in_bytes": 14525
+      },
+      {
+        "_path": "share/locale/vi/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "71c184383b5d42d86563b7427165ddc99b063a22de8da7a4aa28a06ab556da00",
+        "sha256_in_prefix": "71c184383b5d42d86563b7427165ddc99b063a22de8da7a4aa28a06ab556da00",
+        "size_in_bytes": 17671
+      },
+      {
+        "_path": "share/locale/zh_CN/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "43554ee7f12d19daecbdba9148791eb323518879bfb7a138be7ccc4f8a8ae971",
+        "sha256_in_prefix": "43554ee7f12d19daecbdba9148791eb323518879bfb7a138be7ccc4f8a8ae971",
+        "size_in_bytes": 14821
+      },
+      {
+        "_path": "share/locale/zh_TW/LC_MESSAGES/flex.mo",
+        "path_type": "hardlink",
+        "sha256": "6eee772de9522f6f43e2423935e9c4fdafa3fa2044bf361bc6b6aae584f04c03",
+        "sha256_in_prefix": "6eee772de9522f6f43e2423935e9c4fdafa3fa2044bf361bc6b6aae584f04c03",
+        "size_in_bytes": 14913
+      },
+      {
+        "_path": "share/man/man1/flex.1",
+        "path_type": "hardlink",
+        "sha256": "9e0087af211afe059f620a47931a1d0386f9a8044d0fbcd74ed04191ccb527c8",
+        "sha256_in_prefix": "9e0087af211afe059f620a47931a1d0386f9a8044d0fbcd74ed04191ccb527c8",
+        "size_in_bytes": 3717
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "5a6dba5af1127e859eefd68e77b7af062b42f85401efbb43a970da977ba3e344",
+  "size": 338043,
+  "subdir": "linux-64",
+  "timestamp": 1605270841000,
+  "url": "https://conda.anaconda.org/conda-forge/linux-64/flex-2.6.4-h58526e2_1004.tar.bz2",
+  "version": "2.6.4"
+}

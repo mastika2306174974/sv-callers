@@ -1,0 +1,280 @@
+{
+  "build": "py311h38be061_1003",
+  "build_number": 1003,
+  "channel": "https://conda.anaconda.org/conda-forge/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0",
+    "python_abi 3.11.* *_cp311"
+  ],
+  "extracted_package_dir": "/home/gitpod/miniconda3/pkgs/pyvcf-0.6.8-py311h38be061_1003",
+  "files": [
+    "bin/vcf_filter.py",
+    "bin/vcf_melt",
+    "bin/vcf_sample_filter.py",
+    "lib/python3.11/site-packages/PyVCF-0.6.8.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/PyVCF-0.6.8.dist-info/METADATA",
+    "lib/python3.11/site-packages/PyVCF-0.6.8.dist-info/RECORD",
+    "lib/python3.11/site-packages/PyVCF-0.6.8.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/PyVCF-0.6.8.dist-info/WHEEL",
+    "lib/python3.11/site-packages/PyVCF-0.6.8.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/PyVCF-0.6.8.dist-info/entry_points.txt",
+    "lib/python3.11/site-packages/PyVCF-0.6.8.dist-info/top_level.txt",
+    "lib/python3.11/site-packages/vcf/__init__.py",
+    "lib/python3.11/site-packages/vcf/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/vcf/__pycache__/filters.cpython-311.pyc",
+    "lib/python3.11/site-packages/vcf/__pycache__/model.cpython-311.pyc",
+    "lib/python3.11/site-packages/vcf/__pycache__/parser.cpython-311.pyc",
+    "lib/python3.11/site-packages/vcf/__pycache__/sample_filter.cpython-311.pyc",
+    "lib/python3.11/site-packages/vcf/__pycache__/utils.cpython-311.pyc",
+    "lib/python3.11/site-packages/vcf/cparse.pyx",
+    "lib/python3.11/site-packages/vcf/filters.py",
+    "lib/python3.11/site-packages/vcf/model.py",
+    "lib/python3.11/site-packages/vcf/parser.py",
+    "lib/python3.11/site-packages/vcf/sample_filter.py",
+    "lib/python3.11/site-packages/vcf/test/__init__.py",
+    "lib/python3.11/site-packages/vcf/test/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/vcf/test/__pycache__/prof.cpython-311.pyc",
+    "lib/python3.11/site-packages/vcf/test/__pycache__/test_vcf.cpython-311.pyc",
+    "lib/python3.11/site-packages/vcf/test/prof.py",
+    "lib/python3.11/site-packages/vcf/test/test_vcf.py",
+    "lib/python3.11/site-packages/vcf/utils.py"
+  ],
+  "fn": "pyvcf-0.6.8-py311h38be061_1003.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/home/gitpod/miniconda3/pkgs/pyvcf-0.6.8-py311h38be061_1003",
+    "type": 1
+  },
+  "md5": "65b6d960307c3489231db23f239d7352",
+  "name": "pyvcf",
+  "package_tarball_full_path": "/home/gitpod/miniconda3/pkgs/pyvcf-0.6.8-py311h38be061_1003.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/vcf_filter.py",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/pyvcf_1695288079498/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "d029b482f1afe5b95d0cceb372a00542ac10944462195c3cfe079cf6653ef0d6",
+        "sha256_in_prefix": "5a224c72baf12b1d9668ff0514d9f4c2099aa829b1c990cebeae41868726c7ce",
+        "size_in_bytes": 6900
+      },
+      {
+        "_path": "bin/vcf_melt",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/pyvcf_1695288079498/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "b92216fc82b777a3b309179654e0699cf314bddc9e26fd68e1adae7dff10f75d",
+        "sha256_in_prefix": "286e1246bcfd83e1107a8c53f31d925d61bdd4280b7e6d4f1f47995764ee2834",
+        "size_in_bytes": 1582
+      },
+      {
+        "_path": "bin/vcf_sample_filter.py",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/pyvcf_1695288079498/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "c7d0cc53783c3e15fe675faab0198ddedaf375b9b4e14c4c4ede458e7ccf4602",
+        "sha256_in_prefix": "234705c93a58cd1730db5b329dececbdc205c0a39f2e728265dd98306cbb3f8f",
+        "size_in_bytes": 1509
+      },
+      {
+        "_path": "lib/python3.11/site-packages/PyVCF-0.6.8.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/PyVCF-0.6.8.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "e0267f571c84e0bbaf7e99d7fbb7189e9abb9dd537427163233fb98c208129c6",
+        "sha256_in_prefix": "e0267f571c84e0bbaf7e99d7fbb7189e9abb9dd537427163233fb98c208129c6",
+        "size_in_bytes": 1097
+      },
+      {
+        "_path": "lib/python3.11/site-packages/PyVCF-0.6.8.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "8fc67f82beda48829256172d8b4e6e41842b30c930ce267dbcc7581697499698",
+        "sha256_in_prefix": "8fc67f82beda48829256172d8b4e6e41842b30c930ce267dbcc7581697499698",
+        "size_in_bytes": 2100
+      },
+      {
+        "_path": "lib/python3.11/site-packages/PyVCF-0.6.8.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/PyVCF-0.6.8.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "sha256_in_prefix": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "lib/python3.11/site-packages/PyVCF-0.6.8.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "5b52ecc312d7034474e4ee92a1ce4a91b6bf49c8586676ae7b3cc40a9b51daf3",
+        "sha256_in_prefix": "5b52ecc312d7034474e4ee92a1ce4a91b6bf49c8586676ae7b3cc40a9b51daf3",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "lib/python3.11/site-packages/PyVCF-0.6.8.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "9884cb6bcf9806edea3cabe5641e63df263cdba8348aa40af9e2cb3c4c305a1d",
+        "sha256_in_prefix": "9884cb6bcf9806edea3cabe5641e63df263cdba8348aa40af9e2cb3c4c305a1d",
+        "size_in_bytes": 232
+      },
+      {
+        "_path": "lib/python3.11/site-packages/PyVCF-0.6.8.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "1f48669e487480c41360ea205fdd2d3f81dc6a44ff5a26a8381fdc2df2a66f1b",
+        "sha256_in_prefix": "1f48669e487480c41360ea205fdd2d3f81dc6a44ff5a26a8381fdc2df2a66f1b",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "lib/python3.11/site-packages/vcf/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "dea8d6a8dd8c3e7ecb2b0da9ca905cfe77814ce41e45833b3864617217ce5fc3",
+        "sha256_in_prefix": "dea8d6a8dd8c3e7ecb2b0da9ca905cfe77814ce41e45833b3864617217ce5fc3",
+        "size_in_bytes": 384
+      },
+      {
+        "_path": "lib/python3.11/site-packages/vcf/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "03aadbb5d07397e8bd47bdd7ce41e6c93e4827c7544af811ec3591ff0cfeecac",
+        "sha256_in_prefix": "03aadbb5d07397e8bd47bdd7ce41e6c93e4827c7544af811ec3591ff0cfeecac",
+        "size_in_bytes": 689
+      },
+      {
+        "_path": "lib/python3.11/site-packages/vcf/__pycache__/filters.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a697812d23703e319fb24e11ac62fee4f5bce266432dec783dfd87c92129aba0",
+        "sha256_in_prefix": "a697812d23703e319fb24e11ac62fee4f5bce266432dec783dfd87c92129aba0",
+        "size_in_bytes": 12283
+      },
+      {
+        "_path": "lib/python3.11/site-packages/vcf/__pycache__/model.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5065aff25c10777422dad65c72048d20b3d25264bc2f066b0f56e1d5c20e40f6",
+        "sha256_in_prefix": "5065aff25c10777422dad65c72048d20b3d25264bc2f066b0f56e1d5c20e40f6",
+        "size_in_bytes": 36476
+      },
+      {
+        "_path": "lib/python3.11/site-packages/vcf/__pycache__/parser.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "dc0c7d28ce72a024ebcc53c02acba37aae32fc034e7ea26ce84df37d7b52adce",
+        "sha256_in_prefix": "dc0c7d28ce72a024ebcc53c02acba37aae32fc034e7ea26ce84df37d7b52adce",
+        "size_in_bytes": 39463
+      },
+      {
+        "_path": "lib/python3.11/site-packages/vcf/__pycache__/sample_filter.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "0195b571b453f1387734f82cc25e8532ba02a6a47345fdf0e8803cedb5ce655e",
+        "sha256_in_prefix": "0195b571b453f1387734f82cc25e8532ba02a6a47345fdf0e8803cedb5ce655e",
+        "size_in_bytes": 7314
+      },
+      {
+        "_path": "lib/python3.11/site-packages/vcf/__pycache__/utils.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "150f3b5616fdc6a949ec94c3088f0005577b54446fba110a918d1fd18b179e9f",
+        "sha256_in_prefix": "150f3b5616fdc6a949ec94c3088f0005577b54446fba110a918d1fd18b179e9f",
+        "size_in_bytes": 6203
+      },
+      {
+        "_path": "lib/python3.11/site-packages/vcf/cparse.pyx",
+        "path_type": "hardlink",
+        "sha256": "38066592154e64d30321798956095790c5704f7c3d799536cf0c1baccf610c3f",
+        "sha256_in_prefix": "38066592154e64d30321798956095790c5704f7c3d799536cf0c1baccf610c3f",
+        "size_in_bytes": 2398
+      },
+      {
+        "_path": "lib/python3.11/site-packages/vcf/filters.py",
+        "path_type": "hardlink",
+        "sha256": "5717bd4570d200027bb30d6855f9cec508c3b3ad8becd465d3775701a08b2f63",
+        "sha256_in_prefix": "5717bd4570d200027bb30d6855f9cec508c3b3ad8becd465d3775701a08b2f63",
+        "size_in_bytes": 6240
+      },
+      {
+        "_path": "lib/python3.11/site-packages/vcf/model.py",
+        "path_type": "hardlink",
+        "sha256": "ef5f0474e02df0eb7e57749b1dc5c261b8112b1fa395cc1cd752057b5bc2dea5",
+        "sha256_in_prefix": "ef5f0474e02df0eb7e57749b1dc5c261b8112b1fa395cc1cd752057b5bc2dea5",
+        "size_in_bytes": 23697
+      },
+      {
+        "_path": "lib/python3.11/site-packages/vcf/parser.py",
+        "path_type": "hardlink",
+        "sha256": "9e33dd8467498d103221a2771791cd54933086b192f8bdfa7ee7fea7d08c8ea7",
+        "sha256_in_prefix": "9e33dd8467498d103221a2771791cd54933086b192f8bdfa7ee7fea7d08c8ea7",
+        "size_in_bytes": 27487
+      },
+      {
+        "_path": "lib/python3.11/site-packages/vcf/sample_filter.py",
+        "path_type": "hardlink",
+        "sha256": "957e6dc98152d7fdf5ac0674ab1b062c5b1edf90e6e350e49a58926525415d69",
+        "sha256_in_prefix": "957e6dc98152d7fdf5ac0674ab1b062c5b1edf90e6e350e49a58926525415d69",
+        "size_in_bytes": 4023
+      },
+      {
+        "_path": "lib/python3.11/site-packages/vcf/test/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/vcf/test/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "9ed8b526f5daf6a9c9ba0ecb52387a84e6ffd41a3b167aa3636c12ca3090ab63",
+        "sha256_in_prefix": "9ed8b526f5daf6a9c9ba0ecb52387a84e6ffd41a3b167aa3636c12ca3090ab63",
+        "size_in_bytes": 158
+      },
+      {
+        "_path": "lib/python3.11/site-packages/vcf/test/__pycache__/prof.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "cec789f76fb8ca3c8fdb887feb31519c67b3c86aebc2523fc327d8ba64008a1c",
+        "sha256_in_prefix": "cec789f76fb8ca3c8fdb887feb31519c67b3c86aebc2523fc327d8ba64008a1c",
+        "size_in_bytes": 1796
+      },
+      {
+        "_path": "lib/python3.11/site-packages/vcf/test/__pycache__/test_vcf.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b7dcd84c9556112adbdfcb895e302cdb63660e45a5795f96852d9997a750a4d8",
+        "sha256_in_prefix": "b7dcd84c9556112adbdfcb895e302cdb63660e45a5795f96852d9997a750a4d8",
+        "size_in_bytes": 96490
+      },
+      {
+        "_path": "lib/python3.11/site-packages/vcf/test/prof.py",
+        "path_type": "hardlink",
+        "sha256": "ba003cde186a98d77703762cbc36e9e1ce0352777a3a340ca6cdef5ea789d603",
+        "sha256_in_prefix": "ba003cde186a98d77703762cbc36e9e1ce0352777a3a340ca6cdef5ea789d603",
+        "size_in_bytes": 712
+      },
+      {
+        "_path": "lib/python3.11/site-packages/vcf/test/test_vcf.py",
+        "path_type": "hardlink",
+        "sha256": "79317d593d5031ee8d7d7bdecf2e66a36f5da4e03d497a4fe1d262db2b8182ed",
+        "sha256_in_prefix": "79317d593d5031ee8d7d7bdecf2e66a36f5da4e03d497a4fe1d262db2b8182ed",
+        "size_in_bytes": 55069
+      },
+      {
+        "_path": "lib/python3.11/site-packages/vcf/utils.py",
+        "path_type": "hardlink",
+        "sha256": "1ab0cd9cff2037e5566b60bd4f0ef2c9d291569455c5ac1225d80b14df8a574b",
+        "sha256_in_prefix": "1ab0cd9cff2037e5566b60bd4f0ef2c9d291569455c5ac1225d80b14df8a574b",
+        "size_in_bytes": 3278
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "pyvcf=0.6.8",
+  "sha256": "a5117e71eef53c995a6d1d979c52c0c8b441d2650c4f6db65eb08ec09caffc05",
+  "size": 92815,
+  "subdir": "linux-64",
+  "timestamp": 1695288228000,
+  "url": "https://conda.anaconda.org/conda-forge/linux-64/pyvcf-0.6.8-py311h38be061_1003.conda",
+  "version": "0.6.8"
+}

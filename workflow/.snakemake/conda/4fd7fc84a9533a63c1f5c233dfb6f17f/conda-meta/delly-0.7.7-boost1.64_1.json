@@ -1,0 +1,67 @@
+{
+  "build": "boost1.64_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "bcftools",
+    "boost 1.64*",
+    "bzip2",
+    "htslib",
+    "libgcc",
+    "zlib"
+  ],
+  "extracted_package_dir": "/home/gitpod/miniconda3/pkgs/delly-0.7.7-boost1.64_1",
+  "files": [
+    "bin/cov",
+    "bin/delly",
+    "bin/dpe"
+  ],
+  "fn": "delly-0.7.7-boost1.64_1.tar.bz2",
+  "license": "GPLv3",
+  "link": {
+    "source": "/home/gitpod/miniconda3/pkgs/delly-0.7.7-boost1.64_1",
+    "type": 1
+  },
+  "md5": "736ca0f7e066da0106b636d343b991ba",
+  "name": "delly",
+  "package_tarball_full_path": "/home/gitpod/miniconda3/pkgs/delly-0.7.7-boost1.64_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/cov",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/conda/conda-bld/delly_1499264499292/_b_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "e506ef31f9c6d476b8e6a98edaaad3ee4cf5dde9176c766a526bb7ec50148332",
+        "sha256_in_prefix": "5a9adb04b3efd73c0c41d62ecd969779a9e8e3dc63b3c5ff9f35dd75c6751a86",
+        "size_in_bytes": 402562
+      },
+      {
+        "_path": "bin/delly",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/conda/conda-bld/delly_1499264499292/_b_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "a96e8ce27e6ce1dc88215331f92dba83634527b472430b951c9b41563d801a6e",
+        "sha256_in_prefix": "d30036cc1e4b9307dce0c44005e3331f9ab0b271af7fb47118bf16e4a951d0eb",
+        "size_in_bytes": 1451864
+      },
+      {
+        "_path": "bin/dpe",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/conda/conda-bld/delly_1499264499292/_b_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "28882aa8030b9e28e6146b88754a3aea82ea1330441182e755367dee18d92929",
+        "sha256_in_prefix": "53c7b4769d5fa014bf5fe64a7131567131a0e38210df77d26ce8b2b41b535d7c",
+        "size_in_bytes": 264921
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "delly=0.7.7",
+  "sha256": "895f2ba3fb26dc95100da29187d2d07a9b93dab3a554872a1e973593ebf2f627",
+  "size": 580136,
+  "subdir": "linux-64",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/delly-0.7.7-boost1.64_1.tar.bz2",
+  "version": "0.7.7"
+}

@@ -1,0 +1,5 @@
+#!/workspace/sv-callers/workflow/.snakemake/conda/39d6347f6d6193e5145d84bd5c5e8d3c/bin/python3.11
+import sys
+from lib2to3.main import main
+
+sys.exit(main("lib2to3.fixes"))

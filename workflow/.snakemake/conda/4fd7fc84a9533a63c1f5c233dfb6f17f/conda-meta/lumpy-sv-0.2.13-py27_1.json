@@ -1,0 +1,257 @@
+{
+  "build": "py27_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "gawk",
+    "libgcc",
+    "numpy",
+    "pysam",
+    "python 2.7*",
+    "samtools",
+    "zlib 1.2.11*"
+  ],
+  "extracted_package_dir": "/home/gitpod/miniconda3/pkgs/lumpy-sv-0.2.13-py27_1",
+  "files": [
+    "bin/cnvanator_to_bedpes.py",
+    "bin/lumpy",
+    "bin/lumpyexpress",
+    "bin/lumpyexpress.config",
+    "share/lumpy-sv-0.2.13-1/lumpyexpress.config",
+    "share/lumpy-sv-0.2.13-1/scripts/bamkit/LICENSE",
+    "share/lumpy-sv-0.2.13-1/scripts/bamkit/README.md",
+    "share/lumpy-sv-0.2.13-1/scripts/bamkit/bamcleanheader.py",
+    "share/lumpy-sv-0.2.13-1/scripts/bamkit/bamfilterrg.py",
+    "share/lumpy-sv-0.2.13-1/scripts/bamkit/bamgroupreads.py",
+    "share/lumpy-sv-0.2.13-1/scripts/bamkit/bamheadrg.py",
+    "share/lumpy-sv-0.2.13-1/scripts/bamkit/bamlibs.py",
+    "share/lumpy-sv-0.2.13-1/scripts/bamkit/bamtofastq.py",
+    "share/lumpy-sv-0.2.13-1/scripts/bedpe_sort.py",
+    "share/lumpy-sv-0.2.13-1/scripts/check_sorting.py",
+    "share/lumpy-sv-0.2.13-1/scripts/cnvanator_to_bedpes.py",
+    "share/lumpy-sv-0.2.13-1/scripts/extractSplitReads_BwaMem",
+    "share/lumpy-sv-0.2.13-1/scripts/get_coverages.py",
+    "share/lumpy-sv-0.2.13-1/scripts/get_exclude_regions.py",
+    "share/lumpy-sv-0.2.13-1/scripts/l_bp.py",
+    "share/lumpy-sv-0.2.13-1/scripts/l_merge.py",
+    "share/lumpy-sv-0.2.13-1/scripts/l_sort.py",
+    "share/lumpy-sv-0.2.13-1/scripts/pairend_distro.py",
+    "share/lumpy-sv-0.2.13-1/scripts/prob_bedpe_to_bedgraph.py",
+    "share/lumpy-sv-0.2.13-1/scripts/run_histo.sh",
+    "share/lumpy-sv-0.2.13-1/scripts/split_unmapped_to_fasta.pl",
+    "share/lumpy-sv-0.2.13-1/scripts/vcfToBedpe"
+  ],
+  "fn": "lumpy-sv-0.2.13-py27_1.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "/home/gitpod/miniconda3/pkgs/lumpy-sv-0.2.13-py27_1",
+    "type": 1
+  },
+  "md5": "fe8d264b72d91a364eda734509f1a742",
+  "name": "lumpy-sv",
+  "package_tarball_full_path": "/home/gitpod/miniconda3/pkgs/lumpy-sv-0.2.13-py27_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/cnvanator_to_bedpes.py",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "b9d499220daf098e1f150a2c03d767c892b8ddc12cd289ede06999c6121c9696",
+        "sha256_in_prefix": "11643cb9097831fd4136b3ce71d12998fb9ac9fca510bf2e4e90b1aba23eba19",
+        "size_in_bytes": 2051
+      },
+      {
+        "_path": "bin/lumpy",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/conda/conda-bld/lumpy-sv_1518705718278/_b_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "ce859e90f0778963fbf81a3e14d86f7a78959ad1eb3c7200f90739709b925e3c",
+        "sha256_in_prefix": "83817e53c269fc71eefa67a4b7a0ee98161577a80b329bc49a4b45a827bb9dd2",
+        "size_in_bytes": 12630686
+      },
+      {
+        "_path": "bin/lumpyexpress",
+        "path_type": "hardlink",
+        "sha256": "494a5a96f324dd00a752c72c558171edbad7d97f48a768cc144aa7973a3ccc33",
+        "sha256_in_prefix": "494a5a96f324dd00a752c72c558171edbad7d97f48a768cc144aa7973a3ccc33",
+        "size_in_bytes": 14131
+      },
+      {
+        "_path": "bin/lumpyexpress.config",
+        "path_type": "softlink",
+        "sha256": "63141f749444d21443abea7fe0ddf29dc5863b5fb84ca0f5d66aaad896ba3834",
+        "size_in_bytes": 1115
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/lumpyexpress.config",
+        "path_type": "hardlink",
+        "sha256": "63141f749444d21443abea7fe0ddf29dc5863b5fb84ca0f5d66aaad896ba3834",
+        "sha256_in_prefix": "63141f749444d21443abea7fe0ddf29dc5863b5fb84ca0f5d66aaad896ba3834",
+        "size_in_bytes": 1115
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/scripts/bamkit/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "595d2ae6782d9b9d45ced879f7aa53c0180f838bd992ae32538c9d640a50bc7c",
+        "sha256_in_prefix": "595d2ae6782d9b9d45ced879f7aa53c0180f838bd992ae32538c9d640a50bc7c",
+        "size_in_bytes": 1080
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/scripts/bamkit/README.md",
+        "path_type": "hardlink",
+        "sha256": "087cd65b2bfa5b20372c5b6fa2bbe88ac6b8852c88c190c589ccafebb71079df",
+        "sha256_in_prefix": "087cd65b2bfa5b20372c5b6fa2bbe88ac6b8852c88c190c589ccafebb71079df",
+        "size_in_bytes": 49
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/scripts/bamkit/bamcleanheader.py",
+        "path_type": "hardlink",
+        "sha256": "8d5f1fb37aee41a5edfe45a49fec9e8b493b7be1af269a1454a61d969fef6080",
+        "sha256_in_prefix": "8d5f1fb37aee41a5edfe45a49fec9e8b493b7be1af269a1454a61d969fef6080",
+        "size_in_bytes": 4109
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/scripts/bamkit/bamfilterrg.py",
+        "path_type": "hardlink",
+        "sha256": "f28023997467496f853cd01cb02458ec18f5b295bf9519dfd833232f6bfb161f",
+        "sha256_in_prefix": "f28023997467496f853cd01cb02458ec18f5b295bf9519dfd833232f6bfb161f",
+        "size_in_bytes": 3861
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/scripts/bamkit/bamgroupreads.py",
+        "path_type": "hardlink",
+        "sha256": "cd71e7918fd1616cf46467b7cb1cc51e82060cc53c99650b4e9b58b69ebe8745",
+        "sha256_in_prefix": "cd71e7918fd1616cf46467b7cb1cc51e82060cc53c99650b4e9b58b69ebe8745",
+        "size_in_bytes": 5812
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/scripts/bamkit/bamheadrg.py",
+        "path_type": "hardlink",
+        "sha256": "c7fcda027d3b8125a99f2812adb6c56d57ad26b71365070b1fccfe0e4fbe4dd4",
+        "sha256_in_prefix": "c7fcda027d3b8125a99f2812adb6c56d57ad26b71365070b1fccfe0e4fbe4dd4",
+        "size_in_bytes": 3535
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/scripts/bamkit/bamlibs.py",
+        "path_type": "hardlink",
+        "sha256": "68db0718a0ec0b339fbff924a2434c59080194557b69439f698d44f64464bee5",
+        "sha256_in_prefix": "68db0718a0ec0b339fbff924a2434c59080194557b69439f698d44f64464bee5",
+        "size_in_bytes": 2273
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/scripts/bamkit/bamtofastq.py",
+        "path_type": "hardlink",
+        "sha256": "2ff146c96f71155cadbe4cbfde0a2477210f0d22da58005b45f244ce17f70b32",
+        "sha256_in_prefix": "2ff146c96f71155cadbe4cbfde0a2477210f0d22da58005b45f244ce17f70b32",
+        "size_in_bytes": 6602
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/scripts/bedpe_sort.py",
+        "path_type": "hardlink",
+        "sha256": "56c12de842c6d7d52545fcbb03f0e21b77449bd67ce9a945735e2ed601c625c7",
+        "sha256_in_prefix": "56c12de842c6d7d52545fcbb03f0e21b77449bd67ce9a945735e2ed601c625c7",
+        "size_in_bytes": 932
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/scripts/check_sorting.py",
+        "path_type": "hardlink",
+        "sha256": "d1557671d19b7f39e11e2a7ec768c86f36fc77751ded56a2bb305c2155748b2b",
+        "sha256_in_prefix": "d1557671d19b7f39e11e2a7ec768c86f36fc77751ded56a2bb305c2155748b2b",
+        "size_in_bytes": 1763
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/scripts/cnvanator_to_bedpes.py",
+        "path_type": "hardlink",
+        "sha256": "41f35551e5c8b5dbdbd8f9df630cc6d26161fa701cb3f1e6cce59c738f4f53a3",
+        "sha256_in_prefix": "41f35551e5c8b5dbdbd8f9df630cc6d26161fa701cb3f1e6cce59c738f4f53a3",
+        "size_in_bytes": 2027
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/scripts/extractSplitReads_BwaMem",
+        "path_type": "hardlink",
+        "sha256": "2b2e8bb7ca066c395b7b81eb502d4e21e03e33aebf1996b0cf721ea9cb46a0ca",
+        "sha256_in_prefix": "2b2e8bb7ca066c395b7b81eb502d4e21e03e33aebf1996b0cf721ea9cb46a0ca",
+        "size_in_bytes": 6236
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/scripts/get_coverages.py",
+        "path_type": "hardlink",
+        "sha256": "5a03dffcf734c8cd4921a3f0c0769cbb978317afdd958fb1d260ad9984411fa4",
+        "sha256_in_prefix": "5a03dffcf734c8cd4921a3f0c0769cbb978317afdd958fb1d260ad9984411fa4",
+        "size_in_bytes": 1823
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/scripts/get_exclude_regions.py",
+        "path_type": "hardlink",
+        "sha256": "3b10d75416a7c9260e5129426bdc7910606bb1a58e933a089629533b8c8fbd26",
+        "sha256_in_prefix": "3b10d75416a7c9260e5129426bdc7910606bb1a58e933a089629533b8c8fbd26",
+        "size_in_bytes": 781
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/scripts/l_bp.py",
+        "path_type": "hardlink",
+        "sha256": "aa7af0287ced3ffdd94e1d6aa4d8f78589d8f08d292ff60ea577b7f7fc4c30ac",
+        "sha256_in_prefix": "aa7af0287ced3ffdd94e1d6aa4d8f78589d8f08d292ff60ea577b7f7fc4c30ac",
+        "size_in_bytes": 11032
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/scripts/l_merge.py",
+        "path_type": "hardlink",
+        "sha256": "1b733f9957822a181d529d1a420d7367d4a766ee9a749eb3a96150314cfa6bda",
+        "sha256_in_prefix": "1b733f9957822a181d529d1a420d7367d4a766ee9a749eb3a96150314cfa6bda",
+        "size_in_bytes": 22153
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/scripts/l_sort.py",
+        "path_type": "hardlink",
+        "sha256": "c307daef4c3b5158d8724de83eab09aa0650b48abb9b9900527435878e1ed006",
+        "sha256_in_prefix": "c307daef4c3b5158d8724de83eab09aa0650b48abb9b9900527435878e1ed006",
+        "size_in_bytes": 1985
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/scripts/pairend_distro.py",
+        "path_type": "hardlink",
+        "sha256": "c0c831324e8669de395bb16ab669202a7284e1d8c9659b8025144de9e37bd3b4",
+        "sha256_in_prefix": "c0c831324e8669de395bb16ab669202a7284e1d8c9659b8025144de9e37bd3b4",
+        "size_in_bytes": 2794
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/scripts/prob_bedpe_to_bedgraph.py",
+        "path_type": "hardlink",
+        "sha256": "c046c3a4d7ea350962df50aa33f2178ab81f46fcaa094e9cd6355d48421568ca",
+        "sha256_in_prefix": "c046c3a4d7ea350962df50aa33f2178ab81f46fcaa094e9cd6355d48421568ca",
+        "size_in_bytes": 1319
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/scripts/run_histo.sh",
+        "path_type": "hardlink",
+        "sha256": "bb9321ab65b4d1fe103a12a70749d3993d3bd396623dab6db1f7c79556ca0767",
+        "sha256_in_prefix": "bb9321ab65b4d1fe103a12a70749d3993d3bd396623dab6db1f7c79556ca0767",
+        "size_in_bytes": 745
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/scripts/split_unmapped_to_fasta.pl",
+        "path_type": "hardlink",
+        "sha256": "7e87ed252b68c1fdc290afb06ffedd1793816f6efccd814f69f6be6a0f746888",
+        "sha256_in_prefix": "7e87ed252b68c1fdc290afb06ffedd1793816f6efccd814f69f6be6a0f746888",
+        "size_in_bytes": 1521
+      },
+      {
+        "_path": "share/lumpy-sv-0.2.13-1/scripts/vcfToBedpe",
+        "path_type": "hardlink",
+        "sha256": "cd9ed392d26a2305fc0e7c4878e52708e9112517fbc1db5062c132ec6c25b33a",
+        "sha256_in_prefix": "cd9ed392d26a2305fc0e7c4878e52708e9112517fbc1db5062c132ec6c25b33a",
+        "size_in_bytes": 17091
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "lumpy-sv=0.2.13",
+  "sha256": "9bd8fbfbbf155905e23032875f76e19c5b439f216d1cd382fbf19832bf6ad4fc",
+  "size": 3769670,
+  "subdir": "linux-64",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/lumpy-sv-0.2.13-py27_1.tar.bz2",
+  "version": "0.2.13"
+}

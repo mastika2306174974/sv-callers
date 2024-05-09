@@ -1,0 +1,50 @@
+{
+  "build": "h14c3975_1001",
+  "build_number": 1001,
+  "channel": "https://conda.anaconda.org/conda-forge/linux-64",
+  "constrains": [],
+  "depends": [
+    "flex",
+    "libgcc-ng >=7.3.0"
+  ],
+  "extracted_package_dir": "/home/gitpod/miniconda3/pkgs/bc-1.06-h14c3975_1001",
+  "files": [
+    "bin/bc",
+    "bin/dc"
+  ],
+  "fn": "bc-1.06-h14c3975_1001.tar.bz2",
+  "license": "GPLv3",
+  "link": {
+    "source": "/home/gitpod/miniconda3/pkgs/bc-1.06-h14c3975_1001",
+    "type": 1
+  },
+  "md5": "b4680a57a0ce32b05c0bbc746510538f",
+  "name": "bc",
+  "package_tarball_full_path": "/home/gitpod/miniconda3/pkgs/bc-1.06-h14c3975_1001.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/bc",
+        "path_type": "hardlink",
+        "sha256": "b46ba1b6969a4f538942dd73d5384036f7286e2311cef1030176a0aa3b0ffdb3",
+        "sha256_in_prefix": "b46ba1b6969a4f538942dd73d5384036f7286e2311cef1030176a0aa3b0ffdb3",
+        "size_in_bytes": 103328
+      },
+      {
+        "_path": "bin/dc",
+        "path_type": "hardlink",
+        "sha256": "e1d41965dc52e663221b244e1ab83f32416fbe7423128687c5513dd750c51b8b",
+        "sha256_in_prefix": "e1d41965dc52e663221b244e1ab83f32416fbe7423128687c5513dd750c51b8b",
+        "size_in_bytes": 63048
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "bc=1.06",
+  "sha256": "9873205c2eec7d2a8b896a0813b71b6fb19a26dab49f5e13d1c4ca7278ffd3bf",
+  "size": 69588,
+  "subdir": "linux-64",
+  "timestamp": 1541144486000,
+  "url": "https://conda.anaconda.org/conda-forge/linux-64/bc-1.06-h14c3975_1001.tar.bz2",
+  "version": "1.06"
+}

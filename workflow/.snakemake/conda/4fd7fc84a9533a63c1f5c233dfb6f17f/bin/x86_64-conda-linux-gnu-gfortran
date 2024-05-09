@@ -1,0 +1,2 @@
+#!/bin/sh
+/workspace/sv-callers/workflow/.snakemake/conda/4fd7fc84a9533a63c1f5c233dfb6f17f/bin/x86_64-conda-linux-gnu-gfortran.bin -specs=/workspace/sv-callers/workflow/.snakemake/conda/4fd7fc84a9533a63c1f5c233dfb6f17f/bin/../lib/gcc/x86_64-conda-linux-gnu/7.5.0/specs "$@"

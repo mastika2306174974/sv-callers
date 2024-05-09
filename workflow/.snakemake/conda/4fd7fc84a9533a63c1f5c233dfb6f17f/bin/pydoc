@@ -1,0 +1,5 @@
+#!/workspace/sv-callers/workflow/.snakemake/conda/4fd7fc84a9533a63c1f5c233dfb6f17f/bin/python2.7
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()

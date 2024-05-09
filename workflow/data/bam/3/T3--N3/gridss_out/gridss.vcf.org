@@ -1,0 +1,1 @@
+data/fasta/chr22.fasta data/fasta/chr22.fasta.fai data/fasta/chr22.fasta.bwt data/fasta/chr22.fasta.amb data/fasta/chr22.fasta.ann data/fasta/chr22.fasta.pac data/fasta/chr22.fasta.sa data/bam/3/T3.bam data/bam/3/T3.bam.bai data/bam/3/N3.bam data/bam/3/N3.bam.bai data/bam/3/T3--N3/gridss_out

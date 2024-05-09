@@ -1,0 +1,41 @@
+{
+  "build": "1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc",
+    "zlib"
+  ],
+  "extracted_package_dir": "/home/gitpod/miniconda3/pkgs/bwa-0.7.15-1",
+  "files": [
+    "bin/bwa"
+  ],
+  "fn": "bwa-0.7.15-1.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "/home/gitpod/miniconda3/pkgs/bwa-0.7.15-1",
+    "type": 1
+  },
+  "md5": "b357591133b3fea2b94d6ffd97fde0cd",
+  "name": "bwa",
+  "package_tarball_full_path": "/home/gitpod/miniconda3/pkgs/bwa-0.7.15-1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/bwa",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/conda/conda-bld/_b_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256_in_prefix": "8640ce39e5a3211727715513dcbe66192d24cf147c2c5f8fa5266f05b99f8deb"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "bwa=0.7.15",
+  "sha256": "0b80a6b3d85e06434eb65b99652bf5e15da40316f7e6a1f23388d4c75a12c8e0",
+  "size": 509654,
+  "subdir": "linux-64",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/bwa-0.7.15-1.tar.bz2",
+  "version": "0.7.15"
+}

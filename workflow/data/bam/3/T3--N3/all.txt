@@ -1,0 +1,4 @@
+data/bam/3/T3--N3/manta_out/survivor/manta.vcf
+data/bam/3/T3--N3/delly_out/survivor/delly.vcf
+data/bam/3/T3--N3/lumpy_out/survivor/lumpy.vcf
+data/bam/3/T3--N3/gridss_out/survivor/gridss.vcf

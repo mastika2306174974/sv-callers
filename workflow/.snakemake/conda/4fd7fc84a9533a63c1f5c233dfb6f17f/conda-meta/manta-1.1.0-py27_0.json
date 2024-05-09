@@ -1,0 +1,410 @@
+{
+  "build": "py27_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "python 2.7*"
+  ],
+  "extracted_package_dir": "/home/gitpod/miniconda3/pkgs/manta-1.1.0-py27_0",
+  "files": [
+    "bin/configManta.py",
+    "share/manta-1.1.0-0/bin/configManta.py",
+    "share/manta-1.1.0-0/bin/configManta.py.bak",
+    "share/manta-1.1.0-0/bin/configManta.py.ini",
+    "share/manta-1.1.0-0/bin/configManta.pyc",
+    "share/manta-1.1.0-0/bin/runMantaWorkflowDemo.py",
+    "share/manta-1.1.0-0/bin/runMantaWorkflowDemo.pyc",
+    "share/manta-1.1.0-0/conda_build.sh",
+    "share/manta-1.1.0-0/lib/python/checkChromSet.py",
+    "share/manta-1.1.0-0/lib/python/checkChromSet.pyc",
+    "share/manta-1.1.0-0/lib/python/configBuildTimeInfo.py",
+    "share/manta-1.1.0-0/lib/python/configBuildTimeInfo.pyc",
+    "share/manta-1.1.0-0/lib/python/configureOptions.py",
+    "share/manta-1.1.0-0/lib/python/configureOptions.pyc",
+    "share/manta-1.1.0-0/lib/python/configureUtil.py",
+    "share/manta-1.1.0-0/lib/python/configureUtil.pyc",
+    "share/manta-1.1.0-0/lib/python/estimateHardware.py",
+    "share/manta-1.1.0-0/lib/python/estimateHardware.pyc",
+    "share/manta-1.1.0-0/lib/python/makeRunScript.py",
+    "share/manta-1.1.0-0/lib/python/makeRunScript.pyc",
+    "share/manta-1.1.0-0/lib/python/mantaOptions.py",
+    "share/manta-1.1.0-0/lib/python/mantaOptions.pyc",
+    "share/manta-1.1.0-0/lib/python/mantaWorkflow.py",
+    "share/manta-1.1.0-0/lib/python/mantaWorkflow.pyc",
+    "share/manta-1.1.0-0/lib/python/pyflow/pyflow.py",
+    "share/manta-1.1.0-0/lib/python/pyflow/pyflow.pyc",
+    "share/manta-1.1.0-0/lib/python/pyflow/pyflowConfig.py",
+    "share/manta-1.1.0-0/lib/python/pyflow/pyflowConfig.pyc",
+    "share/manta-1.1.0-0/lib/python/pyflow/pyflowTaskWrapper.py",
+    "share/manta-1.1.0-0/lib/python/pyflow/pyflowTaskWrapper.pyc",
+    "share/manta-1.1.0-0/lib/python/sharedWorkflow.py",
+    "share/manta-1.1.0-0/lib/python/sharedWorkflow.pyc",
+    "share/manta-1.1.0-0/lib/python/workflowUtil.py",
+    "share/manta-1.1.0-0/lib/python/workflowUtil.pyc",
+    "share/manta-1.1.0-0/libexec/CheckSVLoci",
+    "share/manta-1.1.0-0/libexec/DumpSVLoci",
+    "share/manta-1.1.0-0/libexec/EstimateSVLoci",
+    "share/manta-1.1.0-0/libexec/GenerateSVCandidates",
+    "share/manta-1.1.0-0/libexec/GetAlignmentStats",
+    "share/manta-1.1.0-0/libexec/GetChromDepth",
+    "share/manta-1.1.0-0/libexec/MergeAlignmentStats",
+    "share/manta-1.1.0-0/libexec/MergeEdgeStats",
+    "share/manta-1.1.0-0/libexec/MergeSVLoci",
+    "share/manta-1.1.0-0/libexec/SummarizeAlignmentStats",
+    "share/manta-1.1.0-0/libexec/SummarizeSVLoci",
+    "share/manta-1.1.0-0/libexec/TestAssembler",
+    "share/manta-1.1.0-0/libexec/bgzip",
+    "share/manta-1.1.0-0/libexec/cat.py",
+    "share/manta-1.1.0-0/libexec/cat.pyc",
+    "share/manta-1.1.0-0/libexec/denovo_scoring.py",
+    "share/manta-1.1.0-0/libexec/denovo_scoring.pyc",
+    "share/manta-1.1.0-0/libexec/extractSmallIndelCandidates.py",
+    "share/manta-1.1.0-0/libexec/extractSmallIndelCandidates.pyc",
+    "share/manta-1.1.0-0/libexec/filterBam.py",
+    "share/manta-1.1.0-0/libexec/filterBam.pyc",
+    "share/manta-1.1.0-0/libexec/htsfile",
+    "share/manta-1.1.0-0/libexec/mergeBam.py",
+    "share/manta-1.1.0-0/libexec/mergeBam.pyc",
+    "share/manta-1.1.0-0/libexec/mergeChromDepth.py",
+    "share/manta-1.1.0-0/libexec/mergeChromDepth.pyc",
+    "share/manta-1.1.0-0/libexec/ploidyFilter.py",
+    "share/manta-1.1.0-0/libexec/ploidyFilter.pyc",
+    "share/manta-1.1.0-0/libexec/samtools",
+    "share/manta-1.1.0-0/libexec/sortBam.py",
+    "share/manta-1.1.0-0/libexec/sortBam.pyc",
+    "share/manta-1.1.0-0/libexec/sortEdgeLogs.py",
+    "share/manta-1.1.0-0/libexec/sortEdgeLogs.pyc",
+    "share/manta-1.1.0-0/libexec/sortVcf.py",
+    "share/manta-1.1.0-0/libexec/sortVcf.pyc",
+    "share/manta-1.1.0-0/libexec/tabix",
+    "share/manta-1.1.0-0/libexec/vcfCmdlineSwapper.py",
+    "share/manta-1.1.0-0/libexec/vcfCmdlineSwapper.pyc",
+    "share/manta-1.1.0-0/share/COPYRIGHT.txt",
+    "share/manta-1.1.0-0/share/ChangeLog.txt",
+    "share/manta-1.1.0-0/share/LICENSE.txt"
+  ],
+  "fn": "manta-1.1.0-py27_0.tar.bz2",
+  "license": "GPLv3",
+  "link": {
+    "source": "/home/gitpod/miniconda3/pkgs/manta-1.1.0-py27_0",
+    "type": 1
+  },
+  "md5": "38ad66559c9f8b7742a71017228b4e90",
+  "name": "manta",
+  "package_tarball_full_path": "/home/gitpod/miniconda3/pkgs/manta-1.1.0-py27_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/configManta.py",
+        "path_type": "softlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/bin/configManta.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/bin/configManta.py.bak",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/bin/configManta.py.ini",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/bin/configManta.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/bin/runMantaWorkflowDemo.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/bin/runMantaWorkflowDemo.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/conda_build.sh",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256_in_prefix": "d383426840afd808ac86ee220b6e0c04aa9da6d3482dd237e2480e8bd93e6cd4"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/checkChromSet.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/checkChromSet.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/configBuildTimeInfo.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/configBuildTimeInfo.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/configureOptions.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/configureOptions.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/configureUtil.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/configureUtil.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/estimateHardware.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/estimateHardware.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/makeRunScript.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/makeRunScript.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/mantaOptions.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/mantaOptions.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/mantaWorkflow.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/mantaWorkflow.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/pyflow/pyflow.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/pyflow/pyflow.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/pyflow/pyflowConfig.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/pyflow/pyflowConfig.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/pyflow/pyflowTaskWrapper.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/pyflow/pyflowTaskWrapper.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/sharedWorkflow.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/sharedWorkflow.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/workflowUtil.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/lib/python/workflowUtil.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/CheckSVLoci",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/DumpSVLoci",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/EstimateSVLoci",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/GenerateSVCandidates",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/GetAlignmentStats",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/GetChromDepth",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/MergeAlignmentStats",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/MergeEdgeStats",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/MergeSVLoci",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/SummarizeAlignmentStats",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/SummarizeSVLoci",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/TestAssembler",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/bgzip",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/cat.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/cat.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/denovo_scoring.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/denovo_scoring.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/extractSmallIndelCandidates.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/extractSmallIndelCandidates.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/filterBam.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/filterBam.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/htsfile",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/mergeBam.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/mergeBam.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/mergeChromDepth.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/mergeChromDepth.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/ploidyFilter.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/ploidyFilter.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/samtools",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/sortBam.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/sortBam.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/sortEdgeLogs.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/sortEdgeLogs.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/sortVcf.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/sortVcf.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/tabix",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/vcfCmdlineSwapper.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/libexec/vcfCmdlineSwapper.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/share/COPYRIGHT.txt",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/share/ChangeLog.txt",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/manta-1.1.0-0/share/LICENSE.txt",
+        "path_type": "hardlink"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "manta=1.1.0",
+  "sha256": "b6a5445ad654fb8dfb44df16810856fe9f1d6d0d60807e38bfbc128d8f9fc11f",
+  "size": 27966407,
+  "subdir": "linux-64",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/manta-1.1.0-py27_0.tar.bz2",
+  "version": "1.1.0"
+}

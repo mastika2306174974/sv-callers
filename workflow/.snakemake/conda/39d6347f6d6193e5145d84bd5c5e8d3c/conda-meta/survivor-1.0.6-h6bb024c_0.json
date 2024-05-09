@@ -1,0 +1,42 @@
+{
+  "build": "h6bb024c_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.3.0",
+    "libstdcxx-ng >=7.3.0"
+  ],
+  "extracted_package_dir": "/home/gitpod/miniconda3/pkgs/survivor-1.0.6-h6bb024c_0",
+  "files": [
+    "bin/SURVIVOR"
+  ],
+  "fn": "survivor-1.0.6-h6bb024c_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "/home/gitpod/miniconda3/pkgs/survivor-1.0.6-h6bb024c_0",
+    "type": 1
+  },
+  "md5": "1057d8c1262c1983e46d77586ecc6e22",
+  "name": "survivor",
+  "package_tarball_full_path": "/home/gitpod/miniconda3/pkgs/survivor-1.0.6-h6bb024c_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/SURVIVOR",
+        "path_type": "hardlink",
+        "sha256": "0fd9c631026efd40433facd6bcc5540f6e14e31d73c18087acce36c6455629b5",
+        "sha256_in_prefix": "0fd9c631026efd40433facd6bcc5540f6e14e31d73c18087acce36c6455629b5",
+        "size_in_bytes": 17114231
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "survivor=1.0.6",
+  "sha256": "d7055249d9298aaf4b694dd6b120a18f7d5310eaba24b025fa782c7fe76a4d5c",
+  "size": 4144346,
+  "subdir": "linux-64",
+  "timestamp": 1550671731000,
+  "url": "https://conda.anaconda.org/bioconda/linux-64/survivor-1.0.6-h6bb024c_0.tar.bz2",
+  "version": "1.0.6"
+}
